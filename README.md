@@ -1,5 +1,5 @@
 - 👋 Hi, I’m José Carlos García -> @toxicsoft
-- 👀 I’m interested in PHP, JS, Java, Angular.
+- 👀 I’m interested in PHP, JS, Java, C#.
 - 🌱 I’m currently learning Angular and Java EE.
 - 💞️ I’m looking to collaborate on projects JS.
 - 📫 How to reach me toxicsoft.mx@gmail.com
